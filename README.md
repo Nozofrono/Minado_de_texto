@@ -1,6 +1,6 @@
 # *Análisis Exploratorio de Textos*
 
-***Autor:** Juan Mesa.*
+***Autor:** Juan Guillermo Marulanda Mesa.*
 
 *Este proyecto se centra en el análisis lingüístico y semántico de dos textos literarios en español: “El inspector Cambalache y el robo en el museo” y “Los dos gemelos y la caja mágica”. El objetivo principal es extraer patrones relevantes del contenido textual mediante técnicas de procesamiento de lenguaje natural (PLN), incluyendo limpieza y normalización del texto, análisis léxico, extracción de relaciones gramaticales y visualización de resultados.*
 
