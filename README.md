@@ -1,0 +1,1 @@
+# Minado_de_texto
